@@ -1,1 +1,3 @@
 za.co.javaspace.developerstarter.autoconfig.DeveloperServiceAutoConfig
+za.co.javaspace.developerstarter.autoconfig.DeveloperControllerAutoConfig
+za.co.javaspace.developerstarter.autoconfig.CreateDBAutoConfig

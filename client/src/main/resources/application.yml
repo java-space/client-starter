@@ -3,3 +3,6 @@ developer:
   language: Java
   experience: 5yrs
   gender: male
+javaspace:
+  connection:
+    user:

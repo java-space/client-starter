@@ -1,1 +1,5 @@
-
+javaspace:
+  connection:
+    user: root
+    password: blessing
+    database: starter
